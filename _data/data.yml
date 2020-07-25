@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Deepak Jaiswal
-    tagline: Backend Java Developer
+    tagline: Java Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: deepakjaiswal45@gmail.com
     phone: +91-9818001656
     website:  #do not add http://
-    linkedin: www.linkedin.com/in/deepakjaiswal18/
+    linkedin: deepakjaiswal18
     github: deepak-8i
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -45,19 +45,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      •	Working as Senior Associate L2, at Sapient, India.
-      •	Around 9 year of experience in Software Design, Development and Deployment.
-      •	Experience in complete Life Cycle development in multiple Enterprise Solutions.
-      •	Knowledge of Google Cloud Platform and other Cloud technologies(AWS).
-      •	Expertise in Logical and Analytical problem solving, Performance analysis and Debugging.
-      •	Hands on Java, Multi-Threading, Spring Framework, Hibernate and Design Patterns.
-      •	Strong and practical knowledge of SQL and UNIX.
-      •	Perform technical analysis, design for the solution, code reviews, refactoring .
-      •	Completed Internship from Persistent Systems Ltd, Nagpur.
-      •	Post Graduated (MCA) in 2011 from NIT Bhopal.
+      •	Working as Senior Associate L2, at Sapient, India.<br>
+      •	Around 9 year of experience in Software Design, Development and Deployment.<br>
+      •	Experience in complete Life Cycle development in multiple Enterprise Solutions.<br>
+      •	Knowledge of Google Cloud Platform and other Cloud technologies(AWS).<br>
+      •	Expertise in Logical and Analytical problem solving, Performance analysis and Debugging.<br>
+      •	Hands on Java, Multi-Threading, Spring Framework, Hibernate and Design Patterns.<br>
+      •	Strong and practical knowledge of SQL and UNIX.<br>
+      •	Perform technical analysis, design for the solution, code reviews, refactoring .<br>
+      •	Completed Internship from Persistent Systems Ltd, Nagpur.<br>
+      •	Post Graduated (MCA) in 2011 from NIT Bhopal.<br>
       
 education:
-    - degree: Postgraduate (MCA)
+    - degree: Master of Computer Applications
       university: NIT Bhopal
       time: 2008 - 2011
       details: |
