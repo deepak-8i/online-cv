@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: deepakjaiswal45@gmail.com
     phone: +91-9818001656
-    website: blog.webjeda.com #do not add http://
-    linkedin:
-    github:
+    website:  #do not add http://
+    linkedin: www.linkedin.com/in/deepakjaiswal18/
+    github: deepak-8i
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -27,10 +27,10 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: Hindi
-        level: Professional
+        level: Native
 
     interests:
       - item: Running
@@ -45,16 +45,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      •	Working as Senior Associate L2, at Sapient, India.
+      •	Around 9 year of experience in Software Design, Development and Deployment.
+      •	Experience in complete Life Cycle development in multiple Enterprise Solutions.
+      •	Knowledge of Google Cloud Platform and other Cloud technologies(AWS).
+      •	Expertise in Logical and Analytical problem solving, Performance analysis and Debugging.
+      •	Hands on Java, Multi-Threading, Spring Framework, Hibernate and Design Patterns.
+      •	Strong and practical knowledge of SQL and UNIX.
+      •	Perform technical analysis, design for the solution, code reviews, refactoring .
+      •	Completed Internship from Persistent Systems Ltd, Nagpur.
+      •	Post Graduated (MCA) in 2011 from NIT Bhopal.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Postgraduate (MCA)
+      university: NIT Bhopal
+      time: 2008 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +68,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Applications
+      university: Allahabad University
+      time: 2005 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +80,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Associate L2
+      time: 2017 - Present
+      company: Sapient, Gurgaon
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,9 +95,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Consultant 
+      time: 2015 - 2017
+      company: Lochbridge (DMI), Gurgaon 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -101,9 +106,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Software Engineer
+      time: 2011 - 2015
+      company: Comviva Technologies, Gurgaon
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -165,23 +170,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Core Java, Java 8
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Spring
         level: 98%
 
-      - name: Angular
+      - name: Hibernate
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Microserivces
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Kubernetes
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Rest & SOAP
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
